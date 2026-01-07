@@ -213,7 +213,7 @@ The map pool consists of the official Active Duty pool:
 2. Mirage
 3. Nuke
 4. Ancient
-5. Anubis
+5. Overpass
 6. Dust2
 7. Train
 
@@ -309,9 +309,9 @@ Players are obliged to keep their Steam status offline during the match. In-game
 ### **13. Prize Pool and Payment**
 The prize pool for IstanbuLAN 2026 is as follows:
 
-* 1. Team: $12,500
-* 2. Team: $6,250
-* 3. - 4. Teams: $3,125 per team
+* 1st Team: $12,500
+* 2nd Team: $6,250
+* 3rd and 4th Teams: $3,125 per team
 
 Prizes are paid via bank transfer or against an invoice within the announced period, in accordance with local legislation. How the prize amounts will be shared between players and the coach depends on the relevant team's internal agreement; the organization only processes transactions according to the official payment information determined by the team and cannot be held responsible for internal sharing disputes.
 

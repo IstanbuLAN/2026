@@ -215,7 +215,7 @@ The map pool consists of the official Active Duty pool:
 4. Ancient
 5. Overpass
 6. Dust2
-7. Train
+7. Anubis
 
 Map veto and side selection are applied for BO1 and BO3 series such that the Higher Seed in the matchup has priority. The map banning process takes place as follows:
 
